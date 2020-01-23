@@ -23,6 +23,12 @@
 #include <igl/colon.h>
 #include <igl/harmonic.h>
 
+//Deformation Sample
+#include <igl/readOBJ.h>
+#include <igl/writeOBJ.h>
+#include <igl/readDMAT.h>
+#include <algorithm>
+
 
 
 #include <iostream>
@@ -53,6 +59,9 @@ public:
 
 
 	void ReadSTL(std::string filename, bool _duplicate = true);
+	void WriteDMAT(std::string filename);
+
+	std::ofstream writeFile;
 	void WriteSTL(std::string filename, bool _ascii = false);
 
 	enum NormalType
@@ -65,7 +74,8 @@ public:
 
 	void Smoothing();
 
-	void BiharmonicDeformation();
+	void BiharmonicDeformation(std::string dmatfile);
+	void PolyharmonicDeformation();
 };
 
 

@@ -69,7 +69,31 @@ void IGLCore::WriteSTL(std::string filename, bool _ascii)
 		igl::writeSTL(p_writefilepath + filename, _v, _f, _n, _ascii);
 		std::cout << "Write STL COMPLETE" << std::endl;
 	}
-		
+
+}
+
+void IGLCore::WriteDMAT(std::string filename)
+{
+	writeFile.open(p_readfilepath + filename);
+	int _size = _v.size() / 3;
+	int minus_count = 0;
+	if (writeFile.is_open())
+	{
+		writeFile << "1" << " " << _size << std::endl;
+		for (int i = 0; i < _size; i++)
+		{
+			if (minus_count % 15 == 0)
+			{
+				writeFile << "1" << std::endl;
+			}
+			else
+			{
+				writeFile << "-1" << std::endl;
+			}
+			minus_count++;
+		}
+	}
+	writeFile.close();
 }
 
 void IGLCore::ComputeNormal(int mode)
@@ -125,7 +149,96 @@ void IGLCore::Smoothing()
 	std::cout << "Smoothing COMPLETE" << std::endl;
 }
 
-void IGLCore::BiharmonicDeformation()
+void IGLCore::BiharmonicDeformation(std::string dmatfile)
+{
+	double bc_frac = 1.0;
+	double bc_dir = -0.03;
+	bool deformation_field = false;
+	Eigen::MatrixXd U, V_bc, U_bc;
+	Eigen::VectorXd Z;
+	Eigen::VectorXi b;
+
+	using namespace Eigen;
+	using namespace std;
+	//igl::readOBJ("D:/hbs/Code/LibIGL_ver2/LibIGL_ver2/model/decimated-max.obj", _v, _f);
+	U = _v;
+	// S(i) = j: j<0 (vertex i not in handle), j >= 0 (vertex i in handle j)
+	VectorXi S;
+	igl::readDMAT(p_readfilepath + dmatfile, S);
+	//igl::readDMAT("D:/hbs/Code/LibIGL_ver2/LibIGL_ver2/model/decimated-max-selection.dmat", S);
+	std::cout << _v.size() << std::endl;
+	std::cout << _v.size() / 3 << std::endl;
+	std::cout << _f.size() << std::endl;
+	std::cout << S.size() << std::endl;
+	igl::colon<int>(0, _v.rows() - 1, b);
+	std::cout << "############################################" << std::endl;
+	//std::cout << "b = " << std::endl << b << std::endl;
+	b.conservativeResize(stable_partition(b.data(), b.data() + b.size(),[&S](int i)->bool {return S(i) >= 0;}) - b.data());
+	std::cout << "############################################" << std::endl;
+	//std::cout << "b = " << std::endl << b << std::endl;
+	// Boundary conditions directly on deformed positions
+	U_bc.resize(b.size(), _v.cols());
+	V_bc.resize(b.size(), _v.cols());
+	std::cout << "############################################" << std::endl;
+	for (int bi = 0;bi < b.size();bi++)
+	{
+		V_bc.row(bi).x() = _v.row(b(bi)).x();
+		V_bc.row(bi).y() = _v.row(b(bi)).y();
+		V_bc.row(bi).z() = _v.row(b(bi)).z();
+		
+		//Translate
+		U_bc.row(bi).x() = _v.row(b(bi)).x();
+		U_bc.row(bi).y() = _v.row(b(bi)).y();
+		U_bc.row(bi).z() = _v.row(b(bi)).z();
+		//std::cout << "S(b(bi)) = " << S(b(bi)) << std::endl;
+		//switch (S(b(bi)))
+		//{
+		//case 0:
+		//	// Don't move handle 0
+		//	U_bc.row(bi).x() = _v.row(b(bi)).x();
+		//	U_bc.row(bi).y() = _v.row(b(bi)).y();
+		//	U_bc.row(bi).z() = _v.row(b(bi)).z();
+		//	break;
+		//case 1:
+		//	// move handle 1 down
+		//	U_bc.row(bi) = _v.row(b(bi)) + RowVector3d(0, -50, 0);
+		//	break;
+		//case 2:
+		//default:
+		//	// move other handles forward
+		//	U_bc.row(bi) = _v.row(b(bi)) + RowVector3d(0, 0, -25);
+		//	break;
+		//}
+		
+	}
+	const MatrixXd U_bc_anim = V_bc + bc_frac*(U_bc - V_bc);
+	if (deformation_field)
+	{
+		MatrixXd D;
+		MatrixXd D_bc = U_bc_anim - V_bc;
+		igl::harmonic(_v, _f, b, D_bc, 1, D);
+		U = _v + D;
+	}
+	else
+	{
+		igl::harmonic(_v, _f, b, U_bc_anim, 1., U);
+	}
+	_v = U;
+	//igl::writeOBJ("D:/hbs/Code/LibIGL_ver2/LibIGL_ver2/model/result/decimated-max_result.obj", _v, _f);
+
+
+	//igl::harmonic(_v, _f, b, bc, k, Z);
+	//igl::harmonic(_v, _f, k, L);
+	///*using namespace Eigen;
+	//using namespace std;
+	//VectorXi S;
+	//igl::readDMAT("D:/hbs/Code/LibIGL_ver2/LibIGL_ver2/model/cube.dmat", S);
+	//std::cout << S << std::endl;
+	//std::cout << S.size() << std::endl;*/
+}
+
+//////////////////////////제대로 안됨 수정 보완 필요 /////////////////////////
+void IGLCore::PolyharmonicDeformation()
 {
 	using namespace Eigen;
 	using namespace std;
