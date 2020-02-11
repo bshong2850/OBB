@@ -1,0 +1,819 @@
+﻿  iglcore.cpp
+d:\hbs\code\git\libigl_ver1\lib\igl\internal_angles.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\internal_angles.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\circulation.cpp(22): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\circulation.cpp(22): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\edge_collapse_is_valid.cpp(65): warning C4800: 'const int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\hbs\code\git\libigl_ver1\lib\igl\collapse_edge.cpp(64): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\collapse_edge.cpp(64): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(494): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(532): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(533): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(536): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(540): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(975): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(999): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(1091): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(1127): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(1180): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(1512): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(1611): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(1669): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(2546): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(2967): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(2995): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(3072): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(3077): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ply.h(3144): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\decimate.cpp(29): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\decimate.cpp(29): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\decimate.cpp(31): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\decimate.cpp(48): warning C4267: '인수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\EPS.h(16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\EPS.h(17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\readDMAT.cpp(31): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\ray_box_intersect.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\exterior_edges.cpp(91): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\exterior_edges.cpp(92): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+iglcore.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+iglcore.cpp(125): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+iglcore.cpp(183): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+iglcore.cpp(439): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+iglcore.cpp(650): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+iglcore.cpp(599): warning C4101: 'global_scale' :참조되지 않은 지역 변수입니다.
+iglcore.cpp(825): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+iglcore.cpp(882): warning C4244: '인수': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+iglcore.cpp(927): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\list_to_matrix.cpp(84): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\circulation.cpp(68): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::list_to_matrix<int,Eigen::Matrix<int,-1,1,0,-1,1>>(const std::vector<int,std::allocator<_Ty>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=int
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\connect_boundary_to_infinity.cpp(46): warning C4244: '인수': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\decimate.cpp(36): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::connect_boundary_to_infinity<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\slice_mask.cpp(59): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\decimate.cpp(54): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::slice_mask<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const Eigen::Array<bool,-1,1,0,-1,1> &,const int,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\slice_mask.cpp(59): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\slice_mask.cpp(77): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\slice_mask.cpp(77): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\sort.cpp(30): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\exterior_edges.cpp(55): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::sort<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\sort.cpp(43): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\sort.cpp(74): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\sort.cpp(78): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\unique_rows.cpp(30): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\exterior_edges.cpp(59): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::unique_rows<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::DenseBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\unique_rows.cpp(30): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\unique_rows.cpp(31): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\unique_rows.cpp(31): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\unique_rows.cpp(64): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\unique_rows.cpp(64): warning C4267: '초기화 중': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\writeSTL.cpp(71): warning C4244: '초기화 중': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iglcore.cpp(174): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::writeSTL<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const std::string &,const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const bool)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\writeSTL.cpp(80): warning C4244: '=': 'const double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\writeSTL.cpp(81): warning C4244: '=': 'const double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\writeSTL.cpp(82): warning C4244: '=': 'const double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\writeSTL.cpp(88): warning C4244: '=': 'const double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\writeSTL.cpp(89): warning C4244: '=': 'const double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\writeSTL.cpp(90): warning C4244: '=': 'const double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\writeSTL.cpp(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\writeSTL.cpp(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\per_corner_normals.cpp(26): warning C4244: '인수': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iglcore.cpp(217): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::per_corner_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const double,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\cotmatrix.cpp(27): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iglcore.cpp(230): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::cotmatrix<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,double>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::SparseMatrix<double,0,int> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\cotmatrix.cpp(29): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\cotmatrix.cpp(37): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\cotmatrix.cpp(45): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\doublearea.cpp(25): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iglcore.cpp(235): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::doublearea<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\doublearea.cpp(25): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\doublearea.cpp(53): warning C4267: '인수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\doublearea.cpp(65): warning C4267: '인수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\massmatrix.cpp(28): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iglcore.cpp(237): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::massmatrix<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,double>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const igl::MassMatrixType,Eigen::SparseMatrix<double,0,int> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\massmatrix.cpp(28): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\massmatrix.cpp(29): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\massmatrix.cpp(29): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\massmatrix.cpp(30): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\massmatrix.cpp(30): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\loop.cpp(165): warning C4244: '인수': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iglcore.cpp(369): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::loop<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const int)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readDMAT.cpp(107): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iglcore.cpp(425): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readDMAT<Eigen::Matrix<int,-1,1,0,-1,1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readDMAT.cpp(126): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\readDMAT.cpp(64): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readDMAT.cpp(98): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\shapeup.cpp(104): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iglcore.cpp(629): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::shapeup_precomputation<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &,igl::ShapeupData &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\shapeup.cpp(105): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\shapeup.cpp(106): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\shapeup.cpp(161): warning C4244: '인수': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\shapeup.cpp(163): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(248): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  iglcore.cpp(805): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readMESH<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\per_face_normals.cpp(98): warning C4244: '=': 'Scalar'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iglcore.cpp(930): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::per_face_normals_stable<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(280): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+  d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(254): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readMESH<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(FILE *,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)'에 대한 참조를 확인하십시오.
+  iglcore.cpp(805): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readMESH<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(290): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(293): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(310): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(319): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(322): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(339): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(351): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(363): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(382): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(391): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(403): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(422): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(431): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readMESH.cpp(443): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\list_to_matrix.cpp(113): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\remove_unreferenced.cpp(78): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\remove_unreferenced.cpp(46): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::remove_unreferenced<Derived,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const std::size_t,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\decimate.cpp(57): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::remove_unreferenced<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\slice.cpp(186): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\slice.cpp(155): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::slice<Derived,Derived,Derived,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::DenseBase<Derived> &,const Eigen::DenseBase<Derived> &,const Eigen::DenseBase<Derived> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,1,0,-1,1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\decimate.cpp(58): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::slice<Eigen::Matrix<int,-1,1,0,-1,1>,Derived,Eigen::VectorXi>(const MatX &,const Eigen::DenseBase<Derived> &,const int,MatY &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,1,0,-1,1>,
+              MatX=Eigen::Matrix<int,-1,1,0,-1,1>,
+              MatY=Eigen::VectorXi
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\slice.cpp(187): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\sort.cpp(178): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\sort.cpp(37): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::sort2<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\exterior_edges.cpp(55): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::sort<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\sort.cpp(180): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\sort.cpp(224): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\sort.cpp(39): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::sort3<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\sort.cpp(226): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\list_to_matrix.cpp(22): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\triangle_fan.cpp(47): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::list_to_matrix<int,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=int
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\triangle_fan.cpp(53): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::triangle_fan<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(56): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(23): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readSTL<double,int,double>(const std::string &,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=double
+          ]
+  iglcore.cpp(114): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readSTL<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const std::string &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\unique_rows.cpp(71): warning C4244: '인수': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\slice.cpp(208): warning C4244: '인수': 'const double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(332): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readOBJ<double,int>(const std::string,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=double
+          ]
+  iglcore.cpp(148): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readOBJ<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\polygon_mesh_to_triangle_mesh.cpp(26): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\polygon_mesh_to_triangle_mesh.cpp(65): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::polygon_mesh_to_triangle_mesh<int,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=int
+          ]
+  iglcore.cpp(151): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::polygon_mesh_to_triangle_mesh<Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\per_face_normals.cpp(21): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\per_face_normals.cpp(47): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::per_face_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,3,1,0,3,1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Eigen::Matrix<double,3,1,0,3,1>> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  iglcore.cpp(213): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::per_face_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\vertex_triangle_adjacency.cpp(29): warning C4244: '인수': 'Index'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\per_corner_normals.cpp(26): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::vertex_triangle_adjacency<Derived,int,int>(const int,const Eigen::MatrixBase<Derived> &,std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>,
+              _Ty=int
+          ]
+  iglcore.cpp(217): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::per_corner_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const double,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\vertex_triangle_adjacency.cpp(30): warning C4244: '인수': 'Index'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\per_corner_normals.cpp(67): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\per_corner_normals.cpp(27): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::per_corner_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,3,0,-1,3>,int,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,const double,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              _Ty=int
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\per_corner_normals.cpp(67): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\per_corner_normals.cpp(69): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\per_corner_normals.cpp(69): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\cotmatrix_entries.cpp(29): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\cotmatrix.cpp(60): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::cotmatrix_entries<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  iglcore.cpp(230): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::cotmatrix<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,double>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::SparseMatrix<double,0,int> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\cotmatrix_entries.cpp(31): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\grad.cpp(132): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\grad.cpp(226): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::`anonymous-namespace'::grad_tri<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::SparseMatrix<double,0,int> &,bool)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  iglcore.cpp(233): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::grad<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::SparseMatrix<double,0,int> &,bool)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\grad.cpp(132): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\grad.cpp(134): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\grad.cpp(134): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\grad.cpp(136): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\grad.cpp(136): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\grad.cpp(30): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\grad.cpp(228): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::`anonymous-namespace'::grad_tet<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::SparseMatrix<double,0,int> &,bool)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\grad.cpp(30): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\grad.cpp(53): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\sparse.cpp(69): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\massmatrix.cpp(76): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::sparse<Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<double,-1,1,0,-1,1>,double>(const IndexVectorI &,const IndexVectorJ &,const ValueVector &,const std::size_t,const std::size_t,Eigen::SparseMatrix<double,0,int> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              IndexVectorI=Eigen::Matrix<int,-1,1,0,-1,1>,
+              IndexVectorJ=Eigen::Matrix<int,-1,1,0,-1,1>,
+              ValueVector=Eigen::Matrix<double,-1,1,0,-1,1>
+          ]
+  iglcore.cpp(237): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::massmatrix<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,double>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const igl::MassMatrixType,Eigen::SparseMatrix<double,0,int> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\loop.cpp(85): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\loop.cpp(165): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::loop<Eigen::Matrix<int,-1,-1,0,-1,-1>,double,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const int,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::SparseMatrix<double,0,int> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)'에 대한 참조를 확인하십시오.
+  iglcore.cpp(369): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::loop<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const int)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\loop.cpp(85): warning C4267: '초기화 중': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\colon.cpp(20): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\colon.cpp(30): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::colon<L,T,H,int>(const L,const S,const H,Eigen::Matrix<int,-1,1,0,-1,1> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              L=int,
+              T=int,
+              H=__int64,
+              S=int
+          ]
+  iglcore.cpp(395): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::colon<int,__int64,int>(const L,const H,Eigen::Matrix<int,-1,1,0,-1,1> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              L=int,
+              H=__int64
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\colon.cpp(20): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\signed_distance.cpp(40): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\signed_distance.cpp(231): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::signed_distance<Derived,Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const igl::SignedDistanceType,const double,const double,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  iglcore.cpp(476): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::signed_distance<Derived,Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const igl::SignedDistanceType,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\signed_distance.cpp(40): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\signed_distance.cpp(163): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\min_quad_with_fixed.cpp(58): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\shapeup.cpp(169): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::min_quad_with_fixed_precompute<double,Derived>(const Eigen::SparseMatrix<double,0,int> &,const Eigen::MatrixBase<Derived> &,const Eigen::SparseMatrix<double,0,int> &,const bool,igl::min_quad_with_fixed_data<double> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,1,0,-1,1>
+          ]
+  iglcore.cpp(629): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::shapeup_precomputation<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &,igl::ShapeupData &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\min_quad_with_fixed.cpp(203): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\min_quad_with_fixed.cpp(288): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\min_quad_with_fixed.cpp(288): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\winding_number.cpp(70): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\winding_number.cpp(37): note: 컴파일 중인 함수 템플릿 인스턴스화 'double igl::winding_number<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Block<const Derived,1,-1,false>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Eigen::Block<const Derived,1,-1,false>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  iglcore.cpp(818): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::winding_number<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\winding_number.cpp(70): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\winding_number.cpp(71): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\winding_number.cpp(71): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\parallel_for.h(108): warning C4244: '인수': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\winding_number.cpp(38): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::parallel_for<__int64,igl::winding_number::<lambda_d4946688a72fd447175e0200fa7cb64c>>(const Index,const FunctionType &,const std::size_t)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Index=__int64,
+              FunctionType=igl::winding_number::<lambda_d4946688a72fd447175e0200fa7cb64c>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\boundary_facets.cpp(33): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\boundary_facets.cpp(115): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::boundary_facets<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  iglcore.cpp(837): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::boundary_facets<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\boundary_facets.cpp(33): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\boundary_facets.cpp(86): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\boundary_facets.cpp(86): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\marching_tets.cpp(109): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\marching_tets.h(84): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::marching_tets<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,double>(const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &,double,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::SparseMatrix<double,0,int> &)'에 대한 참조를 확인하십시오.
+  iglcore.cpp(862): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::marching_tets<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,double>(const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::SparseMatrix<double,0,int> &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\marching_tets.cpp(109): warning C4267: '초기화 중': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\marching_tets.cpp(187): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(193): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(63): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readSTL<double,int,double>(FILE *,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=double
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(23): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readSTL<double,int,double>(const std::string &,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=double
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(95): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(150): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(169): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(179): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(187): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(205): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(138): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(38): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readOBJ<double,int>(FILE *,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=double
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(332): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readOBJ<double,int>(const std::string,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=double
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(142): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(146): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(76): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(99): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(118): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(154): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(160): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(165): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(169): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readOBJ.cpp(173): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(166): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(63): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readSTL<double,int,int>(FILE *,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=double
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(23): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::readSTL<double,int,int>(const std::string &,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=double
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\readSTL.cpp(249): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\squared_edge_lengths.cpp(19): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\cotmatrix_entries.cpp(41): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::squared_edge_lengths<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,3,0,-1,3>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,3,0,-1,3>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\cotmatrix.cpp(60): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::cotmatrix_entries<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\squared_edge_lengths.cpp(19): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\dihedral_angles.cpp(46): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\cotmatrix_entries.cpp(70): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::dihedral_angles_intrinsic<Eigen::Matrix<double,-1,6,0,-1,6>,Eigen::Matrix<double,-1,4,0,-1,4>,Eigen::Matrix<double,-1,6,0,-1,6>,Eigen::Matrix<double,-1,6,0,-1,6>>(const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,6,0,-1,6>> &,const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,4,0,-1,4>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,6,0,-1,6>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,6,0,-1,6>> &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\dihedral_angles.cpp(46): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\volume.cpp(79): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\cotmatrix_entries.cpp(74): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::volume<Derived,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,6,0,-1,6>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\volume.cpp(79): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\volume.cpp(21): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\grad.cpp(47): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::volume<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\grad.cpp(228): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::`anonymous-namespace'::grad_tet<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::SparseMatrix<double,0,int> &,bool)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\volume.cpp(21): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\parallel_for.h(108): warning C4244: '인수': 'Index'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\doublearea.cpp(199): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::parallel_for<Index,igl::doublearea::<lambda_68877b35a93cbac5e1ff095c5c17bfef>>(const Index,const FunctionType &,const std::size_t)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Index=Index,
+              FunctionType=igl::doublearea::<lambda_68877b35a93cbac5e1ff095c5c17bfef>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\massmatrix_intrinsic.cpp(40): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\massmatrix_intrinsic.cpp(26): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::massmatrix_intrinsic<Eigen::Matrix<double,-1,3,0,-1,3>,Derived,double>(const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Derived> &,const igl::MassMatrixType,const int,Eigen::SparseMatrix<double,0,int> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\massmatrix.cpp(48): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::massmatrix_intrinsic<Eigen::Matrix<double,-1,3,0,-1,3>,Derived,double>(const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Derived> &,const igl::MassMatrixType,Eigen::SparseMatrix<double,0,int> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\massmatrix_intrinsic.cpp(40): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\massmatrix_intrinsic.cpp(41): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\massmatrix_intrinsic.cpp(41): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\per_edge_normals.cpp(37): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\signed_distance.cpp(100): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::per_edge_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,2,0,-1,2>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const igl::PerEdgeNormalsWeightingType,const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,2,0,-1,2>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\signed_distance.cpp(231): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::signed_distance<Derived,Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const igl::SignedDistanceType,const double,const double,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\per_edge_normals.cpp(37): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\slice.cpp(151): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\min_quad_with_fixed.cpp(137): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::slice<Eigen::SparseMatrix<double,0,int>,Derived,Eigen::SparseMatrix<double,0,int>>(const MatX &,const Eigen::DenseBase<Derived> &,const int,MatY &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,1,0,-1,1>,
+              MatX=Eigen::SparseMatrix<double,0,int>,
+              MatY=Eigen::SparseMatrix<double,0,int>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\shapeup.cpp(169): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::min_quad_with_fixed_precompute<double,Derived>(const Eigen::SparseMatrix<double,0,int> &,const Eigen::MatrixBase<Derived> &,const Eigen::SparseMatrix<double,0,int> &,const bool,igl::min_quad_with_fixed_data<double> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,1,0,-1,1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\slice.cpp(160): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\slice.cpp(24): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\min_quad_with_fixed.cpp(106): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::slice<double,double>(const Eigen::SparseMatrix<double,0,int> &,const Eigen::Matrix<int,-1,1,0,-1,1> &,const Eigen::Matrix<int,-1,1,0,-1,1> &,Eigen::SparseMatrix<double,0,int> &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\slice.cpp(25): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\min_quad_with_fixed.cpp(401): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\min_quad_with_fixed.cpp(554): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::min_quad_with_fixed_solve<double,Derived,Derived,Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const igl::min_quad_with_fixed_data<double> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\shapeup.cpp(212): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::min_quad_with_fixed_solve<double,Derived,Derived,Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const igl::min_quad_with_fixed_data<double> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  iglcore.cpp(630): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::shapeup_solve<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const std::function<bool (const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &)> &,const Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const igl::ShapeupData &,const bool,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\min_quad_with_fixed.cpp(407): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\min_quad_with_fixed.cpp(425): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\min_quad_with_fixed.cpp(494): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\min_quad_with_fixed.cpp(494): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\parallel_for.h(133): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\parallel_for.h(109): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::parallel_for<Index,igl::parallel_for::<lambda_7a7c70e7f8394077f635e743b9e7a2e0>,igl::parallel_for::<lambda_4362d25f517da4523b07e77c5713f3a2>,igl::parallel_for::<lambda_7a7c70e7f8394077f635e743b9e7a2e0>>(const Index,const PreFunctionType &,const FunctionType &,const AccumFunctionType &,const std::size_t)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Index=__int64,
+              PreFunctionType=igl::parallel_for::<lambda_7a7c70e7f8394077f635e743b9e7a2e0>,
+              FunctionType=igl::parallel_for::<lambda_4362d25f517da4523b07e77c5713f3a2>,
+              AccumFunctionType=igl::parallel_for::<lambda_7a7c70e7f8394077f635e743b9e7a2e0>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\winding_number.cpp(38): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::parallel_for<__int64,igl::winding_number::<lambda_d4946688a72fd447175e0200fa7cb64c>>(const Index,const FunctionType &,const std::size_t)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Index=__int64,
+              FunctionType=igl::winding_number::<lambda_d4946688a72fd447175e0200fa7cb64c>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\WindingNumberAABB.h(285): warning C4244: '인수': '__int64'에서 'const double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\WindingNumberAABB.h(255): note: 클래스 템플릿 멤버 함수 'void igl::WindingNumberAABB<Eigen::Matrix<double,1,3,1,1,3>,DerivedV,DerivedF>::compute_min_max_corners(void)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              DerivedV=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              DerivedF=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\WindingNumberAABB.h(95): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::WindingNumberAABB<Eigen::Matrix<double,1,3,1,1,3>,DerivedV,DerivedF>::compute_min_max_corners(void)'에 대한 참조를 확인하십시오.
+          with
+          [
+              DerivedV=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              DerivedF=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\WindingNumberAABB.h(118): note: 클래스 템플릿 멤버 함수 'igl::WindingNumberAABB<Eigen::Matrix<double,1,3,1,1,3>,DerivedV,DerivedF>::WindingNumberAABB(const igl::WindingNumberTree<Point,DerivedV,DerivedF> &,const Eigen::MatrixBase<Derived> &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              DerivedV=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              DerivedF=Eigen::Matrix<int,-1,-1,0,-1,-1>,
+              Point=Eigen::Matrix<double,1,3,1,1,3>,
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\WindingNumberAABB.h(226): note: 컴파일 중인 함수 템플릿 인스턴스화 'igl::WindingNumberAABB<Eigen::Matrix<double,1,3,1,1,3>,DerivedV,DerivedF>::WindingNumberAABB(const igl::WindingNumberTree<Point,DerivedV,DerivedF> &,const Eigen::MatrixBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              DerivedV=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              DerivedF=Eigen::Matrix<int,-1,-1,0,-1,-1>,
+              Point=Eigen::Matrix<double,1,3,1,1,3>,
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\face_areas.cpp(41): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\face_areas.cpp(30): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::face_areas<Derived,Eigen::Matrix<double,-1,4,0,-1,4>>(const Eigen::MatrixBase<Derived> &,const double,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,4,0,-1,4>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,6,0,-1,6>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\cotmatrix_entries.cpp(68): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::face_areas<Derived,Eigen::Matrix<double,-1,4,0,-1,4>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,4,0,-1,4>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,6,0,-1,6>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\face_areas.cpp(41): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\parallel_for.h(108): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\triangle_triangle_adjacency.cpp(143): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool igl::parallel_for<__int64,igl::triangle_triangle_adjacency::<lambda_2e84c52bf83115501b7accc19f6aa6a7>>(const Index,const FunctionType &,const std::size_t)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Index=__int64,
+              FunctionType=igl::triangle_triangle_adjacency::<lambda_2e84c52bf83115501b7accc19f6aa6a7>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\loop.cpp(34): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::triangle_triangle_adjacency<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\loop.cpp(165): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::loop<Eigen::Matrix<int,-1,-1,0,-1,-1>,double,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const int,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::SparseMatrix<double,0,int> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)'에 대한 참조를 확인하십시오.
+d:\hbs\code\git\libigl_ver1\lib\igl\AABB.cpp(79): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\AABB.cpp(100): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::AABB<DerivedV,3>::init<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const int)'에 대한 참조를 확인하십시오.
+          with
+          [
+              DerivedV=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\AABB.cpp(100): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::AABB<DerivedV,3>::init<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const int)'에 대한 참조를 확인하십시오.
+          with
+          [
+              DerivedV=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\signed_distance.cpp(58): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::AABB<DerivedV,3>::init<Derived>(const Eigen::MatrixBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              DerivedV=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\signed_distance.cpp(58): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::AABB<DerivedV,3>::init<Derived>(const Eigen::MatrixBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              DerivedV=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\AABB.cpp(79): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\project_to_line_segment.cpp(26): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\pseudonormal_test.cpp(116): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::project_to_line_segment<Derived,Derived,Derived,Eigen::Matrix<double,1,1,0,1,1>,Eigen::Matrix<double,1,1,0,1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\signed_distance.cpp(194): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::pseudonormal_test<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<double,1,3,1,1,3>,Eigen::Matrix<double,1,3,1,1,3>,double,Eigen::Matrix<double,1,3,1,1,3>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const Eigen::MatrixBase<Eigen::Matrix<double,1,3,1,1,3>> &,const int,Eigen::PlainObjectBase<Eigen::Matrix<double,1,3,1,1,3>> &,Scalar &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,3,1,1,3>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>,
+              Scalar=double
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\project_to_line_segment.cpp(26): warning C4244: '초기화 중': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\igl\project_to_line.cpp(34): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\project_to_line_segment.cpp(25): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::project_to_line<Derived,Derived,Derived,Eigen::Matrix<double,1,1,0,1,1>,Eigen::Matrix<double,1,1,0,1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\pseudonormal_test.cpp(116): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::project_to_line_segment<Derived,Derived,Derived,Eigen::Matrix<double,1,1,0,1,1>,Eigen::Matrix<double,1,1,0,1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,1,1,0,1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<double,1,3,1,1,3>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\cumsum.cpp(22): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\igl\vertex_triangle_adjacency.cpp(67): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::cumsum<Derived,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const int,Eigen::PlainObjectBase<Derived> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,1,0,-1,1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\igl\triangle_triangle_adjacency.cpp(45): note: 컴파일 중인 함수 템플릿 인스턴스화 'void igl::vertex_triangle_adjacency<Derived,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const int,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+d:\hbs\code\git\libigl_ver1\lib\igl\cumsum.cpp(24): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\hbs\code\git\libigl_ver1\lib\eigen\src/Core/SolveTriangular.h(247): error C2280: 'Eigen::Block<Derived,-1,1,false> &Eigen::Block<Derived,-1,1,false>::operator =(const Eigen::Block<Derived,-1,1,false> &)': 삭제된 함수를 참조하려고 합니다.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\eigen\src/Core/Block.h(143): note: 컴파일러에서 여기에 'Eigen::Block<Derived,-1,1,false>::operator ='을(를) 생성했습니다.
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\eigen\src/Core/ReturnByValue.h(61): note: 컴파일 중인 함수 템플릿 인스턴스화 'void Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Derived,5>,Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>>::evalTo<Dest>(Dest &) const'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,
+              Dest=Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\eigen\src/Core/ReturnByValue.h(61): note: 컴파일 중인 함수 템플릿 인스턴스화 'void Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Derived,5>,Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>>::evalTo<Dest>(Dest &) const'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,
+              Dest=Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\eigen\src/Core/Assign.h(522): note: 컴파일 중인 함수 템플릿 인스턴스화 'void Eigen::ReturnByValue<Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Derived,5>,Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>>>::evalTo<ActualDerived>(Dest &) const'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,
+              ActualDerived=Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>,
+              Dest=Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\eigen\src/Core/Assign.h(522): note: 컴파일 중인 함수 템플릿 인스턴스화 'void Eigen::ReturnByValue<Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Derived,5>,Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>>>::evalTo<ActualDerived>(Dest &) const'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,
+              ActualDerived=Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>,
+              Dest=Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\eigen\src/Core/Assign.h(578): note: 컴파일 중인 함수 템플릿 인스턴스화 'Derived &Eigen::internal::assign_selector<Derived,OtherDerived,false,false>::evalTo<Derived,Eigen::ReturnByValue<Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,5>,Derived>>>(ActualDerived &,const ActualOtherDerived &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>,
+              OtherDerived=Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,5>,Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>>,
+              ActualDerived=Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>,
+              ActualOtherDerived=Eigen::ReturnByValue<Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,5>,Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>>>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\eigen\src/Core/Assign.h(578): note: 컴파일 중인 함수 템플릿 인스턴스화 'Derived &Eigen::internal::assign_selector<Derived,OtherDerived,false,false>::evalTo<Derived,Eigen::ReturnByValue<Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,5>,Derived>>>(ActualDerived &,const ActualOtherDerived &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>,
+              OtherDerived=Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,5>,Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>>,
+              ActualDerived=Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>,
+              ActualOtherDerived=Eigen::ReturnByValue<Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,5>,Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>>>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\eigen\src/SparseLU/SparseLU_column_bmod.h(167): note: 컴파일 중인 함수 템플릿 인스턴스화 'Derived &Eigen::MatrixBase<Derived>::operator =<Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,5>,Derived>>(const Eigen::ReturnByValue<Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,5>,Derived>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\eigen\src/SparseLU/SparseLU_column_bmod.h(167): note: 컴파일 중인 함수 템플릿 인스턴스화 'Derived &Eigen::MatrixBase<Derived>::operator =<Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,5>,Derived>>(const Eigen::ReturnByValue<Eigen::internal::triangular_solve_retval<1,Eigen::TriangularView<Eigen::Map<Eigen::Matrix<double,-1,-1,0,-1,-1>,0,Eigen::OuterStride<-1>>,5>,Derived>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Derived=Eigen::Block<Eigen::Matrix<double,-1,1,0,-1,1>,-1,1,false>
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\eigen\src/SparseLU/SparseLU_column_bmod.h(54): note: 클래스 템플릿 멤버 함수 'int Eigen::internal::SparseLUImpl<double,int>::column_bmod(const Index,const Index,Eigen::Ref<Eigen::Matrix<double,-1,1,0,-1,1>,0,Eigen::InnerStride<1>>,Eigen::Matrix<double,-1,1,0,-1,1> &,Eigen::Ref<Eigen::Matrix<int,-1,1,0,-1,1>,0,Eigen::InnerStride<1>>,Eigen::Ref<Eigen::Matrix<int,-1,1,0,-1,1>,0,Eigen::InnerStride<1>>,Index,Eigen::internal::LU_GlobalLU_t<Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<double,-1,1,0,-1,1>> &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              Index=int
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\eigen\src/SparseLU/SparseLU.h(593): note: 컴파일 중인 함수 템플릿 인스턴스화 'int Eigen::internal::SparseLUImpl<double,int>::column_bmod(const Index,const Index,Eigen::Ref<Eigen::Matrix<double,-1,1,0,-1,1>,0,Eigen::InnerStride<1>>,Eigen::Matrix<double,-1,1,0,-1,1> &,Eigen::Ref<Eigen::Matrix<int,-1,1,0,-1,1>,0,Eigen::InnerStride<1>>,Eigen::Ref<Eigen::Matrix<int,-1,1,0,-1,1>,0,Eigen::InnerStride<1>>,Index,Eigen::internal::LU_GlobalLU_t<Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<double,-1,1,0,-1,1>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Index=int
+          ]
+  d:\hbs\code\git\libigl_ver1\lib\eigen\src/SparseLU/SparseLU.h(455): note: 클래스 템플릿 멤버 함수 'void Eigen::SparseLU<Eigen::SparseMatrix<double,0,int>,Eigen::COLAMDOrdering<int>>::factorize(const Eigen::SparseMatrix<double,0,int> &)'을(를) 컴파일하고 있습니다.
+  d:\hbs\code\git\libigl_ver1\lib\eigen\src/SparseLU/SparseLU.h(117): note: 컴파일 중인 함수 템플릿 인스턴스화 'void Eigen::SparseLU<Eigen::SparseMatrix<double,0,int>,Eigen::COLAMDOrdering<int>>::factorize(const Eigen::SparseMatrix<double,0,int> &)'에 대한 참조를 확인하십시오.
